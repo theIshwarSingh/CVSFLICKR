@@ -6,7 +6,7 @@ This is an andorid app to search the images from the public api and showing the 
 ## Includes
 - **Search Bar** : Explore the images based on users input in the search bar
 - **Grid View** : Customizeable grid view to show the response made on network call
-- **Deatail View & Sharing** : To see the image details and share with friends and family or even socials.
+- **Detail View & Sharing** : To see the image details and share with friends and family or even socials.
 - **Unit Test and UI Test** : To ensure the stabililty of the app and making as much possible as bug free
 
 
