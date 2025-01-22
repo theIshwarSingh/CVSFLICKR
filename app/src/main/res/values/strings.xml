@@ -1,0 +1,28 @@
+<resources>
+    <!-- Spacing Dimensions -->
+
+    <string name="app_name">Flickr</string>
+
+    <string name="error_message_title">An error occurred</string>
+    <string name="idle_state_title">Search New Posts</string>
+    <string name="idle_state_message">Discover and share amazing photos from around the world</string>
+    <string name="home_title">Welcome to Flickr</string>
+
+    <string name="share_photo_author">Author: %1$s</string>
+    <string name="share_photo_date_taken">Date Taken: %1$s</string>
+    <string name="share_photo_link">View photo: %1$s</string>
+    <string name="share_photo_dimensions">Dimensions: %1$d x %2$d</string>
+    <string name="share_intent_title">Share this photo via</string>
+    <string name="share">Share </string>
+    <string name="search_placeholder_text">Search for Post...</string>
+    <string name="search_icon_description">Search Icon</string>
+    <string name="search_clear_description">Clear Search Field</string>
+    <string name="photo_detail_Screen">Post Details </string>
+    <string name="share_message_intro">Check out this amazing photo!</string>
+    <string name="share_photo_title">Title: %1$s</string>
+    <string name="photo_label_title">Title</string>
+    <string name="photo_label_description">Description</string>
+    <string name="photo_label_author">Author</string>
+    <string name="photo_label_published_date">Published Date</string>
+    <string name="photo_no_image_selected">No image selected</string>
+</resources>
